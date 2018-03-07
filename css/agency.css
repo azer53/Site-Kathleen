@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2017 Start Bootstrap
+ * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -718,4 +718,11 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #3663fe;
+}
+a h4 {
+  color: black;
+  text-decoration: underline;
+}
+a:hover h4 {
+  color: #3663fe;
 }
